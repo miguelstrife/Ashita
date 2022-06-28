@@ -1,0 +1,23 @@
+<Lootwhore>
+
+	<settings>
+		<smartpass>false</smartpass>
+		<rarepass>false</rarepass>
+		<defaultaction>ignore</defaultaction>
+		<zonereset>false</zonereset>
+	</settings>
+
+	<itemlist>
+		<item id="4064">lot</item> <!--Rem Tale 1-->
+		<item id="4065">lot</item> <!--Rem Tale 2-->
+		<item id="4066">lot</item> <!--Rem Tale 3-->
+		<item id="4067">lot</item> <!--Rem Tale 4-->
+		<item id="4068">lot</item> <!--Rem Tale 5-->
+		<item id="4069">lot</item> <!--Rem Tale 6-->
+		<item id="4070">lot</item> <!--Rem Tale 7-->
+		<item id="4071">lot</item> <!--Rem Tale 8-->
+		<item id="4072">lot</item> <!--Rem Tale 9-->
+		<item id="4073">lot</item> <!--Rem Tale 10-->
+	</itemlist>
+
+</Lootwhore>

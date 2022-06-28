@@ -1,0 +1,21 @@
+<Lootwhore>
+
+	<settings>
+		<smartpass>false</smartpass>
+		<rarepass>false</rarepass>
+		<defaultaction>ignore</defaultaction>
+		<zonereset>false</zonereset>
+	</settings>
+
+	<itemlist>
+		<item id="4103">pass</item> <!--Dark Crystal-->
+		<item id="4099">pass</item> <!--Earth Crystal-->
+		<item id="4096">pass</item> <!--Fire Crystal-->
+		<item id="4097">pass</item> <!--Ice Crystal-->
+		<item id="4102">pass</item> <!--Light Crystal-->
+		<item id="4100">pass</item> <!--Lightng. Crystal-->
+		<item id="4101">pass</item> <!--Water Crystal-->
+		<item id="4098">pass</item> <!--Wind Crystal-->
+	</itemlist>
+
+</Lootwhore>
