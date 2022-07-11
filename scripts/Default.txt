@@ -20,6 +20,7 @@
 /load Minimap
 /load StatusTimers
 /load lootwhore
+/load equipviewer
 
 ##########################################################################
 # Load Common Addons
