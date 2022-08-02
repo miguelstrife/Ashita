@@ -1,6 +1,6 @@
 {
     "decline": [],
-    "default": "ignore",
+    "default": "join",
     "ignore": [],
     "join": ["Sheepshenko", "Sebwolf", "Huamulan"]
 }

@@ -1,0 +1,18 @@
+<Lootwhore>
+
+	<settings>
+		<smartpass>false</smartpass>
+		<rarepass>false</rarepass>
+		<defaultaction>pass</defaultaction>
+		<zonereset>true</zonereset>
+	</settings>
+
+	<itemlist>
+		<item id="1126">lot</item> <!--Beastmen Seal-->
+		<item id="1127">lot</item> <!--Kindred Seal-->
+		<item id="2955">lot</item> <!--Kindred Crest-->
+		<item id="2956">lot</item> <!--H. Kindred Crest-->
+		<item id="2957">lot</item> <!--S. Kindred Crest-->
+	</itemlist>
+
+</Lootwhore>
