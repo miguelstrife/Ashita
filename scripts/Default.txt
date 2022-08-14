@@ -21,6 +21,7 @@
 /load StatusTimers
 /load lootwhore
 /load equipviewer
+/load guildwork
 
 ##########################################################################
 # Load Common Addons
