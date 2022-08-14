@@ -2,7 +2,7 @@
 <settings>
     <global>
         <Bars>
-            <OffsetX>250</OffsetX>
+            <OffsetX>90</OffsetX>
             <OffsetY>20</OffsetY>
         </Bars>
         <Texts>
@@ -41,7 +41,7 @@
             </Bar>
             <Compact>false</Compact>
             <DimTpBar>true</DimTpBar>
-            <Name>ffxiv</Name>
+            <Name>ffxi</Name>
         </Theme>
     </global>
 </settings>
