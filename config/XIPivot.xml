@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <settings>
-    <setting name="overlays">AshenbubsHD,XI-View,remapster,XI-Vision</setting>
+    <setting name="overlays">AshenbubsHD,XI-View,remapster,XI-Vision,FFXI-HD</setting>
     <setting name="cache_size">2048</setting>
     <setting name="cache_max_age">600</setting>
     <setting name="cache_enabled">false</setting>
